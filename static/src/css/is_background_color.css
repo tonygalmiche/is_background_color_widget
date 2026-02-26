@@ -1,0 +1,5 @@
+/* Style pour les widgets is_background_color et is_revue_risque */
+.o_field_is_background_color,
+.o_field_is_revue_risque {
+    display: inline-block;
+}

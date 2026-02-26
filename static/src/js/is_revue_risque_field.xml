@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+
+    <!-- Hérite du même template que IsBackgroundColorField -->
+    <t t-name="is_background_color_widget.IsRevueRisqueField" owl="1" t-inherit="is_background_color_widget.IsBackgroundColorField" t-inherit-mode="primary"/>
+
+</templates>
